@@ -1,2 +1,4 @@
 # Sub_Pixel_Dyna_Measuremet
-Measure sub pixel dynamic respond
+A new Image Processing method Measure sub pixel dynamic, respond. Targetless and Feature less.
+Alternative to traditional contact measurement
+
